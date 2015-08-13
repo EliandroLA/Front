@@ -1,0 +1,13 @@
+c:\users\usuario\documents\visual studio 2015\Projects\Front\Front\bin\Debug\Front.dll
+c:\users\usuario\documents\visual studio 2015\Projects\Front\Front\bin\Debug\Front.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\Front\Front\obj\Debug\Front.dll
+c:\users\usuario\documents\visual studio 2015\Projects\Front\Front\obj\Debug\Front.pdb
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Front\Front\obj\Debug\Front.Form.FormDB.resources
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Front\Front\obj\Debug\Front.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Front\Front\obj\Debug\Front.Form.frmUserLogin.resources
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Front\Front\obj\Debug\Front.Form.LoginControl.resources
+C:\Users\Usuario\documents\visual studio 2015\Projects\Front\Front\obj\Debug\Front.LoginControlEnter.resources
+C:\Users\Usuario\documents\visual studio 2015\Projects\Front\Front\obj\Debug\Front.UserControls.UserControlObjects.LoginUserEnterMessage.resources
+C:\Users\Usuario\documents\visual studio 2015\Projects\Front\Front\obj\Debug\Front.UserControls.UserControlObjects.LoginUserEnterLogin.resources
+C:\Users\Usuario\documents\visual studio 2015\Projects\Front\Front\obj\Debug\Front.UserControls.LoginUserInherit.resources
+C:\Users\Usuario\documents\visual studio 2015\Projects\Front\Front\obj\Debug\Front.UserControls.ControlBox.resources
